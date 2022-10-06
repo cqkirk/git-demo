@@ -5,10 +5,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git!
-hello git!
-hello git!
+hello git! 测试ssh
 hello git!
 hello git!
 hello git!
